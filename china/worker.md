@@ -1,3 +1,7 @@
+# 中年危机
+
+- [普外科曾医生：护士的悲哀，医院不续聘44岁以上女员工，她们该何去何从！](https://www.bilibili.com/video/BV11h4y1N7oG)
+
 # 剥削
 
 - [某骜-Warwick：【诉苦运动6】化工厂是什么牛马？](https://www.bilibili.com/video/BV1Wh4y1H7mo)
@@ -507,3 +511,7 @@
 ## 程序员
 
 - [进取与迷失：程序员实习生的职业生活]()
+
+# 网站
+
+- [layoffs：国外科技企业裁员统计](https://layoffs.fyi/)
