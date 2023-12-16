@@ -512,6 +512,10 @@
 
 - [进取与迷失：程序员实习生的职业生活]()
 
+# 商务合同
+
+- [电丸科技AK：李佳琦团队想签我8年 天价违约金5000万 我不同意 对方就抢了我的商标](https://www.bilibili.com/video/BV15H4y1r7ZW)
+
 # 网站
 
 - [layoffs：国外科技企业裁员统计](https://layoffs.fyi/)
