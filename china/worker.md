@@ -526,6 +526,14 @@
 
 - [【吃瓜】阿里期权打假？互联网期权是香饽饽还是空头支票？](https://www.bilibili.com/video/BV1ww4m1R7un)
 
+# 地区
+
+## 广州
+
+- [文章推荐 | 有力女人在抗争： 广州大学城环卫工维权罢工纪事](https://mp.weixin.qq.com/s/2qmuJMCHdAwaZS2ky-of8g)
+
+- [中山大学硕士，到流水线上当女工](https://mp.weixin.qq.com/s/4L6nt79AJaYtq55cIBvoAw)
+
 # 网站
 
 - [layoffs：国外科技企业裁员统计](https://layoffs.fyi/)
